@@ -21,9 +21,9 @@
 [<img align="left" alt="Aashay Zende | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Aashay Zende | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/ashz1/
-[linkedin]: https://linkedin.com/in/ashz1/
-
+[instagram]: https://www.instagram.com/aashay.zi/
+[linkedin]: https://www.linkedin.com/in/aashay-zende-3018209b/
+-
 <h2>📄 Resume and Blog:</h2>
 
 - <a href="https://ashz1.github.io/posts/Resume"><b>Resume</b></a>
