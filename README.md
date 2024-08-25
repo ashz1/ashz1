@@ -15,6 +15,8 @@
   - Strategic insights and data visualization for eCommerce in India.
 - <b>[**Data Engineering Project (AWS)**](https://github.com/ashz1/DataEngg)</b>
   - End-to-end data engineering project using AWS services.
+- <b>[**Tableau Supply Chain Project**](https://ashz1.github.io/posts/Tableau)</b>
+  - End-to-end data engineering project using AWS services.
 
 <h2>🤳 Connect with me:</h2>
 
