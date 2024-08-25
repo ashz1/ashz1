@@ -7,6 +7,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+- <b>[**Tableau Supply Chain Project**](https://ashz1.github.io/posts/Tableau)</b>
+  - Supply Chain Analysis and Visualizations of Order Fulfillment, Shipment Delays, and Inventory Management.
 - <b>[**SQL Project (SQL)**](https://github.com/ashz1/SQLproject)</b>
   - A showcase of advanced SQL operations and database management.
 - <b>[**Risk Analysis with Predictive Modeling (R, Linear regression)**](https://github.com/ashz1/Carvana-R-Project)</b>
@@ -15,8 +17,7 @@
   - Strategic insights and data visualization for eCommerce in India.
 - <b>[**Data Engineering Project (AWS)**](https://github.com/ashz1/DataEngg)</b>
   - End-to-end data engineering project using AWS services.
-- <b>[**Tableau Supply Chain Project**](https://ashz1.github.io/posts/Tableau)</b>
-  - Supply Chain Analysis and Visualizations of Order Fulfillment, Shipment Delays, and Inventory Management.
+
 
 <h2>🤳 Connect with me:</h2>
 
