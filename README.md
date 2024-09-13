@@ -9,6 +9,8 @@
 
 - <b>[**Tableau Supply Chain Project**](https://ashz1.github.io/posts/Tableau)</b>
   - Supply Chain Analysis and Visualizations of Order Fulfillment, Shipment Delays, and Inventory Management.
+- <b> [**Business Analytics using Deep Learning in Tensorflow and Keras**](https://github.com/ashz1/Business-Analytics-using-Deep-Learning-in-Tensorflow-and-Keras/) </b>
+  - Predicting Lending Club's issued loans using Deep Learning with TensorFlow and Keras.
 - <b>[**SQL Project (SQL)**](https://github.com/ashz1/SQLproject)</b>
   - A showcase of advanced SQL operations and database management.
 - <b>[**Risk Analysis with Predictive Modeling (R, Linear regression)**](https://github.com/ashz1/Carvana-R-Project)</b>
